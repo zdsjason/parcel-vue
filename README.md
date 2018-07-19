@@ -1,10 +1,13 @@
+Parcel+Vue 之Hello World
+====
 
-1、clone
+
+1、clone<br>
 git clone https://github.com/zlxbuzz/parcel-demo.git
 
-2、install with npm
+2、install with npm<br>
 cd parcel-vue
 npm install
 
-3、run
+3、run<br>
 npm start
