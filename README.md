@@ -6,7 +6,7 @@ Parcel+Vue 之Hello World
     git clone https://github.com/zlxbuzz/parcel-demo.git
 
 2、install with npm<br>
-    `cd parcel-vue<br>`
+    `cd parcel-vue`<br>
     `npm install`
 
 3、run<br>
