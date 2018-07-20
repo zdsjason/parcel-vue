@@ -1,5 +1,7 @@
 <template>
-    <div id="app"><h3>parcel vue</h3></div>
+    <div id="app">
+        <router-view></router-view>
+    </div>
 </template>
 
 <script>
